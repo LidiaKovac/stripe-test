@@ -1,0 +1,590 @@
+[
+        {
+            "id": "p001",
+            "name": "Ergonomic Wireless Mouse",
+            "description": "Premium wireless mouse with ergonomic design and adjustable DPI settings. Perfect for long work sessions with minimal wrist strain.",
+            "price": 49.99,
+            "discountPercentage": 15,
+            "rating": 4.7,
+            "stock": 94,
+            "brand": "TechComfort",
+            "category": "electronics",
+            "thumbnail": "https://example.com/images/mouse.jpg",
+            "images": [
+                "https://example.com/images/mouse_1.jpg",
+                "https://example.com/images/mouse_2.jpg",
+                "https://example.com/images/mouse_3.jpg"
+            ],
+            "specifications": {
+                "connectivity": "Bluetooth 5.0",
+                "batteryLife": "6 months",
+                "weight": "95g",
+                "color": "Graphite Black"
+            },
+            "tags": [
+                "wireless",
+                "ergonomic",
+                "office",
+                "gaming"
+            ]
+        },
+        {
+            "id": "p002",
+            "name": "Mechanical Keyboard RGB",
+            "description": "Mechanical gaming keyboard with customizable RGB lighting and blue switches for tactile feedback.",
+            "price": 89.99,
+            "discountPercentage": 0,
+            "rating": 4.8,
+            "stock": 52,
+            "brand": "GameMaster",
+            "category": "electronics",
+            "thumbnail": "https://example.com/images/keyboard.jpg",
+            "images": [
+                "https://example.com/images/keyboard_1.jpg",
+                "https://example.com/images/keyboard_2.jpg"
+            ],
+            "specifications": {
+                "keyType": "Blue Mechanical",
+                "backlight": "RGB",
+                "layout": "QWERTY",
+                "material": "Aluminum + ABS"
+            },
+            "tags": [
+                "gaming",
+                "mechanical",
+                "rgb",
+                "keyboard"
+            ]
+        },
+        {
+            "id": "p003",
+            "name": "Ultra HD Monitor 27\"",
+            "description": "27-inch 4K monitor with IPS panel for vibrant colors and wide viewing angles. Ideal for creative professionals and gamers alike.",
+            "price": 299.99,
+            "discountPercentage": 10,
+            "rating": 4.6,
+            "stock": 27,
+            "brand": "ViewTech",
+            "category": "electronics",
+            "thumbnail": "https://example.com/images/monitor.jpg",
+            "images": [
+                "https://example.com/images/monitor_1.jpg",
+                "https://example.com/images/monitor_2.jpg",
+                "https://example.com/images/monitor_3.jpg",
+                "https://example.com/images/monitor_4.jpg"
+            ],
+            "specifications": {
+                "resolution": "3840x2160",
+                "refreshRate": "60Hz",
+                "responseTime": "5ms",
+                "ports": [
+                    "HDMI",
+                    "DisplayPort",
+                    "USB-C"
+                ]
+            },
+            "tags": [
+                "4k",
+                "monitor",
+                "ips",
+                "ultraHD"
+            ]
+        },
+        {
+            "id": "p004",
+            "name": "Smart Watch Series 5",
+            "description": "Advanced smartwatch with health monitoring, GPS, and 5-day battery life. Water-resistant up to 50 meters.",
+            "price": 199.99,
+            "discountPercentage": 20,
+            "rating": 4.4,
+            "stock": 78,
+            "brand": "FitLife",
+            "category": "wearables",
+            "thumbnail": "https://example.com/images/smartwatch.jpg",
+            "images": [
+                "https://example.com/images/smartwatch_1.jpg",
+                "https://example.com/images/smartwatch_2.jpg"
+            ],
+            "specifications": {
+                "display": "1.4 inch AMOLED",
+                "batteryLife": "5 days",
+                "waterResistance": "50m",
+                "sensors": [
+                    "heart rate",
+                    "accelerometer",
+                    "GPS"
+                ]
+            },
+            "tags": [
+                "smartwatch",
+                "fitness",
+                "health",
+                "wearable"
+            ]
+        },
+        {
+            "id": "p005",
+            "name": "Noise-Cancelling Headphones",
+            "description": "Premium wireless headphones with active noise cancellation and 30-hour battery life. Comfort-fit ear cups for extended listening sessions.",
+            "price": 249.99,
+            "discountPercentage": 5,
+            "rating": 4.9,
+            "stock": 41,
+            "brand": "AudioPro",
+            "category": "audio",
+            "thumbnail": "https://example.com/images/headphones.jpg",
+            "images": [
+                "https://example.com/images/headphones_1.jpg",
+                "https://example.com/images/headphones_2.jpg",
+                "https://example.com/images/headphones_3.jpg"
+            ],
+            "specifications": {
+                "type": "Over-ear",
+                "connectivity": "Bluetooth 5.0",
+                "batteryLife": "30 hours",
+                "noiseCancellation": "Active"
+            },
+            "tags": [
+                "wireless",
+                "noise-cancelling",
+                "audio",
+                "headphones"
+            ]
+        },
+        {
+            "id": "p006",
+            "name": "Premium Laptop Backpack",
+            "description": "Water-resistant backpack with padded laptop compartment and multiple organizer pockets. Comfortable padded straps and back panel.",
+            "price": 79.99,
+            "discountPercentage": 0,
+            "rating": 4.5,
+            "stock": 103,
+            "brand": "TravelMate",
+            "category": "accessories",
+            "thumbnail": "https://example.com/images/backpack.jpg",
+            "images": [
+                "https://example.com/images/backpack_1.jpg",
+                "https://example.com/images/backpack_2.jpg"
+            ],
+            "specifications": {
+                "material": "Polyester",
+                "capacity": "25L",
+                "laptopSize": "Up to 15.6 inches",
+                "waterResistant": true
+            },
+            "tags": [
+                "backpack",
+                "travel",
+                "laptop",
+                "accessory"
+            ]
+        },
+        {
+            "id": "p007",
+            "name": "Portable SSD 1TB",
+            "description": "Ultra-fast portable SSD with 1TB storage capacity. Compact design with shock-resistant casing for durability.",
+            "price": 159.99,
+            "discountPercentage": 10,
+            "rating": 4.7,
+            "stock": 65,
+            "brand": "DataTech",
+            "category": "storage",
+            "thumbnail": "https://example.com/images/ssd.jpg",
+            "images": [
+                "https://example.com/images/ssd_1.jpg",
+                "https://example.com/images/ssd_2.jpg"
+            ],
+            "specifications": {
+                "capacity": "1TB",
+                "interface": "USB 3.2",
+                "readSpeed": "1050 MB/s",
+                "writeSpeed": "1000 MB/s"
+            },
+            "tags": [
+                "storage",
+                "portable",
+                "ssd",
+                "highspeed"
+            ]
+        },
+        {
+            "id": "p008",
+            "name": "Bluetooth Speaker Waterproof",
+            "description": "Portable Bluetooth speaker with 360° sound and IPX7 waterproof rating. Perfect for outdoor adventures with 20-hour battery life.",
+            "price": 79.99,
+            "discountPercentage": 15,
+            "rating": 4.3,
+            "stock": 89,
+            "brand": "SoundWave",
+            "category": "audio",
+            "thumbnail": "https://example.com/images/speaker.jpg",
+            "images": [
+                "https://example.com/images/speaker_1.jpg",
+                "https://example.com/images/speaker_2.jpg",
+                "https://example.com/images/speaker_3.jpg"
+            ],
+            "specifications": {
+                "power": "20W",
+                "batteryLife": "20 hours",
+                "waterproof": "IPX7",
+                "connectivity": "Bluetooth 5.0"
+            },
+            "tags": [
+                "bluetooth",
+                "speaker",
+                "waterproof",
+                "portable"
+            ]
+        },
+        {
+            "id": "p009",
+            "name": "Smartphone Stand with Wireless Charging",
+            "description": "Adjustable smartphone stand with built-in 15W wireless charging. Compatible with all Qi-enabled devices.",
+            "price": 39.99,
+            "discountPercentage": 0,
+            "rating": 4.2,
+            "stock": 120,
+            "brand": "ChargeTech",
+            "category": "accessories",
+            "thumbnail": "https://example.com/images/stand.jpg",
+            "images": [
+                "https://example.com/images/stand_1.jpg",
+                "https://example.com/images/stand_2.jpg"
+            ],
+            "specifications": {
+                "chargingSpeed": "15W",
+                "material": "Aluminum",
+                "adjustable": true,
+                "compatibility": "Universal"
+            },
+            "tags": [
+                "wireless",
+                "charging",
+                "stand",
+                "smartphone"
+            ]
+        },
+        {
+            "id": "p010",
+            "name": "Graphics Tablet XP-Pen",
+            "description": "Professional drawing tablet with 10x6 inch active area and 8192 levels of pressure sensitivity. Includes wireless stylus with programmable buttons.",
+            "price": 119.99,
+            "discountPercentage": 5,
+            "rating": 4.6,
+            "stock": 58,
+            "brand": "CreativePro",
+            "category": "art",
+            "thumbnail": "https://example.com/images/tablet.jpg",
+            "images": [
+                "https://example.com/images/tablet_1.jpg",
+                "https://example.com/images/tablet_2.jpg"
+            ],
+            "specifications": {
+                "activeArea": "10x6 inches",
+                "pressureLevels": 8192,
+                "stylus": "Wireless, battery-free",
+                "compatibility": "Windows & macOS"
+            },
+            "tags": [
+                "drawing",
+                "tablet",
+                "digital art",
+                "graphic design"
+            ]
+        },
+        {
+            "id": "p011",
+            "name": "Leather Wallet RFID Blocking",
+            "description": "Genuine leather wallet with RFID blocking technology to protect your credit cards. Slim design with multiple card slots and bill compartment.",
+            "price": 49.99,
+            "discountPercentage": 10,
+            "rating": 4.5,
+            "stock": 85,
+            "brand": "LeatherCraft",
+            "category": "accessories",
+            "thumbnail": "https://example.com/images/wallet.jpg",
+            "images": [
+                "https://example.com/images/wallet_1.jpg",
+                "https://example.com/images/wallet_2.jpg"
+            ],
+            "specifications": {
+                "material": "Genuine Leather",
+                "cardSlots": 8,
+                "rfidBlocking": true,
+                "color": "Brown"
+            },
+            "tags": [
+                "wallet",
+                "leather",
+                "rfid",
+                "accessory"
+            ]
+        },
+        {
+            "id": "p012",
+            "name": "Smart Home Security Camera",
+            "description": "Wireless security camera with 1080p HD video, motion detection, and two-way audio. Includes night vision and cloud storage options.",
+            "price": 129.99,
+            "discountPercentage": 0,
+            "rating": 4.4,
+            "stock": 73,
+            "brand": "SafeHome",
+            "category": "smart home",
+            "thumbnail": "https://example.com/images/camera.jpg",
+            "images": [
+                "https://example.com/images/camera_1.jpg",
+                "https://example.com/images/camera_2.jpg",
+                "https://example.com/images/camera_3.jpg"
+            ],
+            "specifications": {
+                "resolution": "1080p HD",
+                "nightVision": "Up to 30 feet",
+                "audio": "Two-way",
+                "storage": "Cloud + Local"
+            },
+            "tags": [
+                "security",
+                "camera",
+                "smart home",
+                "wireless"
+            ]
+        },
+        {
+            "id": "p013",
+            "name": "Fitness Tracker Band",
+            "description": "Waterproof fitness tracker with heart rate monitor, sleep tracking, and 7-day battery life. Syncs with smartphone for notifications.",
+            "price": 59.99,
+            "discountPercentage": 20,
+            "rating": 4.3,
+            "stock": 112,
+            "brand": "FitLife",
+            "category": "wearables",
+            "thumbnail": "https://example.com/images/tracker.jpg",
+            "images": [
+                "https://example.com/images/tracker_1.jpg",
+                "https://example.com/images/tracker_2.jpg"
+            ],
+            "specifications": {
+                "display": "0.96 inch OLED",
+                "batteryLife": "7 days",
+                "waterResistance": "IP68",
+                "sensors": [
+                    "heart rate",
+                    "accelerometer"
+                ]
+            },
+            "tags": [
+                "fitness",
+                "tracker",
+                "wearable",
+                "health"
+            ]
+        },
+        {
+            "id": "p014",
+            "name": "Stainless Steel Water Bottle",
+            "description": "Vacuum insulated stainless steel water bottle that keeps drinks cold for 24 hours or hot for 12 hours. Leak-proof lid and durable finish.",
+            "price": 29.99,
+            "discountPercentage": 0,
+            "rating": 4.7,
+            "stock": 145,
+            "brand": "EcoLife",
+            "category": "lifestyle",
+            "thumbnail": "https://example.com/images/bottle.jpg",
+            "images": [
+                "https://example.com/images/bottle_1.jpg",
+                "https://example.com/images/bottle_2.jpg"
+            ],
+            "specifications": {
+                "capacity": "750ml",
+                "material": "18/8 Stainless Steel",
+                "insulation": "Double-wall vacuum",
+                "color": "Midnight Blue"
+            },
+            "tags": [
+                "water bottle",
+                "insulated",
+                "stainless steel",
+                "eco-friendly"
+            ]
+        },
+        {
+            "id": "p015",
+            "name": "Wireless Earbuds",
+            "description": "True wireless earbuds with noise isolation and touch controls. Compact charging case provides 24 hours of total playtime.",
+            "price": 99.99,
+            "discountPercentage": 15,
+            "rating": 4.5,
+            "stock": 92,
+            "brand": "AudioPro",
+            "category": "audio",
+            "thumbnail": "https://example.com/images/earbuds.jpg",
+            "images": [
+                "https://example.com/images/earbuds_1.jpg",
+                "https://example.com/images/earbuds_2.jpg",
+                "https://example.com/images/earbuds_3.jpg"
+            ],
+            "specifications": {
+                "type": "In-ear",
+                "batteryLife": "6 hours + 18 hours (case)",
+                "waterResistant": "IPX5",
+                "connectivity": "Bluetooth 5.0"
+            },
+            "tags": [
+                "wireless",
+                "earbuds",
+                "audio",
+                "portable"
+            ]
+        },
+        {
+            "id": "p016",
+            "name": "Desk Lamp with Wireless Charging",
+            "description": "LED desk lamp with adjustable brightness, color temperature, and built-in wireless charging pad. USB port for additional device charging.",
+            "price": 69.99,
+            "discountPercentage": 5,
+            "rating": 4.2,
+            "stock": 86,
+            "brand": "LightTech",
+            "category": "home office",
+            "thumbnail": "https://example.com/images/lamp.jpg",
+            "images": [
+                "https://example.com/images/lamp_1.jpg",
+                "https://example.com/images/lamp_2.jpg"
+            ],
+            "specifications": {
+                "power": "12W",
+                "brightness": "5 levels",
+                "colorTemp": "3 modes",
+                "wirelessCharging": "10W Qi"
+            },
+            "tags": [
+                "lamp",
+                "desk",
+                "wireless charging",
+                "led"
+            ]
+        },
+        {
+            "id": "p017",
+            "name": "Coffee Press French Style",
+            "description": "Elegant French press coffee maker with double-wall insulation to keep coffee hot longer. Stainless steel and borosilicate glass construction.",
+            "price": 39.99,
+            "discountPercentage": 0,
+            "rating": 4.8,
+            "stock": 75,
+            "brand": "BrewMaster",
+            "category": "kitchen",
+            "thumbnail": "https://example.com/images/frenchpress.jpg",
+            "images": [
+                "https://example.com/images/frenchpress_1.jpg",
+                "https://example.com/images/frenchpress_2.jpg"
+            ],
+            "specifications": {
+                "capacity": "34oz (1 liter)",
+                "material": "Stainless Steel & Borosilicate Glass",
+                "dishwasherSafe": true,
+                "color": "Silver"
+            },
+            "tags": [
+                "coffee",
+                "french press",
+                "kitchen",
+                "brewing"
+            ]
+        },
+        {
+            "id": "p018",
+            "name": "Yoga Mat Premium",
+            "description": "Extra thick yoga mat with non-slip surface and carrying strap. Eco-friendly material and free from harmful chemicals.",
+            "price": 45.99,
+            "discountPercentage": 10,
+            "rating": 4.6,
+            "stock": 120,
+            "brand": "ZenFit",
+            "category": "fitness",
+            "thumbnail": "https://example.com/images/yogamat.jpg",
+            "images": [
+                "https://example.com/images/yogamat_1.jpg",
+                "https://example.com/images/yogamat_2.jpg"
+            ],
+            "specifications": {
+                "thickness": "6mm",
+                "material": "TPE",
+                "size": "72\" x 24\"",
+                "color": "Forest Green"
+            },
+            "tags": [
+                "yoga",
+                "fitness",
+                "exercise",
+                "mat"
+            ]
+        },
+        {
+            "id": "p019",
+            "name": "Portable Power Bank 20000mAh",
+            "description": "High-capacity power bank with fast charging capabilities. Charges multiple devices simultaneously with USB-C and USB-A ports.",
+            "price": 49.99,
+            "discountPercentage": 5,
+            "rating": 4.4,
+            "stock": 98,
+            "brand": "PowerMax",
+            "category": "electronics",
+            "thumbnail": "https://example.com/images/powerbank.jpg",
+            "images": [
+                "https://example.com/images/powerbank_1.jpg",
+                "https://example.com/images/powerbank_2.jpg"
+            ],
+            "specifications": {
+                "capacity": "20000mAh",
+                "inputPorts": [
+                    "USB-C",
+                    "Micro USB"
+                ],
+                "outputPorts": [
+                    "USB-C",
+                    "USB-A (x2)"
+                ],
+                "fastCharging": true
+            },
+            "tags": [
+                "power bank",
+                "portable",
+                "charging",
+                "battery"
+            ]
+        },
+        {
+            "id": "p020",
+            "name": "Bamboo Cutting Board Set",
+            "description": "Set of 3 bamboo cutting boards in different sizes. Natural antibacterial properties and knife-friendly surface.",
+            "price": 34.99,
+            "discountPercentage": 0,
+            "rating": 4.5,
+            "stock": 67,
+            "brand": "EcoKitchen",
+            "category": "kitchen",
+            "thumbnail": "https://example.com/images/cuttingboard.jpg",
+            "images": [
+                "https://example.com/images/cuttingboard_1.jpg",
+                "https://example.com/images/cuttingboard_2.jpg"
+            ],
+            "specifications": {
+                "material": "Bamboo",
+                "sizes": [
+                    "Small (8x6\")",
+                    "Medium (11x8.5\")",
+                    "Large (13x9.5\")"
+                ],
+                "care": "Hand wash only",
+                "ecofriendly": true
+            },
+            "tags": [
+                "kitchen",
+                "cutting board",
+                "bamboo",
+                "eco-friendly"
+            ]
+        }
+    ]
